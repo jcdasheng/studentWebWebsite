@@ -29,38 +29,4 @@ npm install
 npm run build
 ```
 
-## 感谢
-
-### 背景故事
-
-`Discuz! Q`项目由于是从 0 到 1，介于我们的目标，如果从第一行代码开始编写，是极为庞大的工程。想想`Discuz!X`，代码量依赖 10 多年的时间的积累，才完善出各种工具类、自己的框架及插件机制等。
-
-在此背景下，我们必须借助开源的力量，才得以快速构建出`Discuz! Q`。以下是整个`Discuz! Q`中所用到的技术栈，在此特别感谢他们：
-
-<p><a href="https://laravel.com/"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="200"></a></p>
-<p><a href="https://symfony.com/"><img src="https://symfony.com/images/logos/header-logo.svg" width="200"></a></p>
-<p><a href="https://getlaminas.org/"><img src="https://getlaminas.org/images/logo/laminas-foundation-rgb.svg" width="200"></a></p>
-
-[FastRoute](https://github.com/nikic/FastRoute)
-
-[Guzzle](http://guzzlephp.org/)
-
-[thephpleague](https://thephpleague.com/) 
-
-[s9etextformatter](https://s9etextformatter.readthedocs.io/)
-
-[overtrue](https://overtrue.me/)
-
-[intervention](http://image.intervention.io/)
-
-[monolog](https://github.com/Seldaek/monolog)
-
-[whoops](https://github.com/filp/whoops)
-
-[vue](https://vuejs.org/)
-
-[Vant](https://youzan.github.io/vant/#/zh-CN/)
-
-[element-ui](https://element.eleme.cn/#/zh-CN)
-
 
